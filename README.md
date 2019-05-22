@@ -1,6 +1,6 @@
-# Project Title
+# https://github.com/lishafaev/GLDevOpsProCam
 
-One Paragraph of project description goes here
+Script which prints basic information about your OS Ubuntu to console.
 
 ## Getting Started
 

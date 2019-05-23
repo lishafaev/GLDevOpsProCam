@@ -6,7 +6,7 @@ Script which prints basic information about your OS Ubuntu to console.
 
 Copy script to home directory. Execute command:
 ```bash
-chmod 755 metrics.sh
+chmod 755 ~/metrics.sh
 ```
 
 ## Usage
@@ -14,6 +14,6 @@ chmod 755 metrics.sh
 Run script with parameter: 'cpu' or 'mem'.
 For example, 
 ```bash
-./metrics.sh cpu
+~/metrics.sh cpu
 ```
 
